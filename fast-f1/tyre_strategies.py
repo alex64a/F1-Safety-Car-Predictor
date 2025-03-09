@@ -3,7 +3,9 @@ from matplotlib import pyplot as plt
 import fastf1
 import fastf1.plotting
 
-session = fastf1.get_session(2020, "Australian grand prix", 'R')
+race_name = "British grand prix"
+
+session = fastf1.get_session(2024, race_name, 'R')
 session.load()
 laps = session.laps
 
@@ -42,7 +44,7 @@ for driver in drivers:
 
         previous_stint_end += row["StintLength"]
 
-plt.title("2024 Italian Grand Prix Strategies")
+plt.title(f"Selected race : {race_name}")
 plt.xlabel("Lap Number")
 plt.grid(False)
 # invert the y-axis so drivers that finish higher are closer to the top
