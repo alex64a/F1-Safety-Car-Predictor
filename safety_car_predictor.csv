@@ -1,4 +1,42 @@
 year,name,date,weather,num_dnfs,circuit_type,phy_diff,safety_car
+2010,Bahrain Grand Prix,3/14/2010,dry,9,traditional,3,FALSE
+2010,Australian Grand Prix,3/28/2010,light_rain,10,street,2,TRUE
+2010,Malaysian Grand Prix,4/4/2010,dry,7,traditional,4,FALSE
+2010,Chinese Grand Prix,4/18/2010,light_rain,7,traditional,2,TRUE
+2010,Spanish Grand Prix,5/9/2010,dry,7,traditional,2,FALSE
+2010,Monaco Grand Prix,5/16/2010,dry,12,street,3,TRUE
+2010,Turkish Grand Prix,5/30/2010,light_rain,5,traditional,3,FALSE
+2010,Canadian Grand Prix,6/13/2010,dry,5,traditional,2,FALSE
+2010,European Grand Prix,6/27/2010,dry,3,street,2,TRUE
+2010,British Grand Prix,7/11/2010,dry,4,traditional,1,TRUE
+2010,German Grand Prix,7/25/2010,dry,5,traditional,2,FALSE
+2010,Hungarian Grand Prix,8/1/2010,dry,5,traditional,2,TRUE
+2010,Belgian Grand Prix,8/29/2010,heavy_rain,4,traditional,2,TRUE
+2010,Italian Grand Prix,9/12/2010,dry,5,traditional,2,FALSE
+2010,Singapore Grand Prix,9/26/2010,dry,9,street,4,TRUE
+2010,Japanese Grand Prix,10/10/2010,dry,8,traditional,2,TRUE
+2010,Korean Grand Prix,10/24/2010,heavy_rain,9,traditional,1,TRUE
+2010,Brazilian Grand Prix,11/7/2010,dry,1,traditional,2,FALSE
+2010,Abu Dhabi Grand Prix,11/14/2010,dry,4,traditional,3,TRUE
+2011,Australian Grand Prix,3/27/2011,dry,7,street,2,FALSE
+2011,Malaysian Grand Prix,4/10/2011,dry,8,traditional,4,FALSE
+2011,Chinese Grand Prix,4/17/2011,dry,1,traditional,2,FALSE
+2011,Turkish Grand Prix,5/8/2011,dry,2,traditional,3,FALSE
+2011,Spanish Grand Prix,5/22/2011,dry,3,traditional,2,FALSE
+2011,Monaco Grand Prix,5/29/2011,dry,7,street,3,TRUE
+2011,Canadian Grand Prix,6/12/2011,heavy_rain,7,traditional,2,TRUE
+2011,European Grand Prix,6/26/2011,dry,0,street,2,FALSE
+2011,British Grand Prix,7/10/2011,light_rain,5,traditional,1,FALSE
+2011,German Grand Prix,7/24/2011,light_rain,4,traditional,2,FALSE
+2011,Hungarian Grand Prix,7/31/2011,light_rain,4,traditional,2,FALSE
+2011,Belgian Grand Prix,8/28/2011,dry,5,traditional,2,TRUE
+2011,Italian Grand Prix,9/11/2011,dry,8,traditional,2,TRUE
+2011,Singapore Grand Prix,9/25/2011,dry,4,street,4,TRUE
+2011,Japanese Grand Prix,10/9/2011,dry,1,traditional,2,TRUE
+2011,Korean Grand Prix,10/16/2011,light_rain,3,traditional,1,TRUE
+2011,Indian Grand Prix ,10/30/2011,dry,5,traditional,2,FALSE
+2011,Abu Dhabi Grand Prix,11/13/2011,dry,4,traditional,3,FALSE
+2011,Brazilian Grand Prix,11/27/2011,dry,4,traditional,2,FALSE
 2012,Australian Grand Prix,3/18/2012,dry,9,street,2,TRUE
 2012,Malaysian Grand Prix,3/25/2012,heavy_rain,3,traditional,4,TRUE
 2012,Chinese Grand Prix,4/15/2012,dry,1,traditional,2,FALSE
