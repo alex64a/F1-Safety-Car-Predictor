@@ -3,9 +3,9 @@ from matplotlib import pyplot as plt
 import fastf1
 import fastf1.plotting
 
-race_name = "British grand prix"
+race_name = "Brazilian grand prix"
 
-session = fastf1.get_session(2024, race_name, 'R')
+session = fastf1.get_session(2013, race_name, 'R')
 session.load()
 laps = session.laps
 

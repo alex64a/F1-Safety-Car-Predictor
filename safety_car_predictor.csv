@@ -1,4 +1,43 @@
 year,name,date,weather,num_dnfs,circuit_type,phy_diff,safety_car
+2012,Australian Grand Prix,3/18/2012,dry,9,street,2,TRUE
+2012,Malaysian Grand Prix,3/25/2012,heavy_rain,3,traditional,4,TRUE
+2012,Chinese Grand Prix,4/15/2012,dry,1,traditional,2,FALSE
+2012,Bahrain Grand Prix,4/22/2012,dry,4,traditional,3,FALSE
+2012,Spanish Grand Prix,5/13/2012,dry,5,traditional,2,FALSE
+2012,Monaco Grand Prix,5/27/2012,light_rain,9,street,3,TRUE
+2012,Canadian Grand Prix,6/10/2012,dry,4,traditional,2,FALSE
+2012,European Grand Prix,6/24/2012,dry,6,street,2,TRUE
+2012,British Grand Prix,7/8/2012,dry,3,traditional,1,FALSE
+2012,German Grand Prix,7/22/2012,dry,1,traditional,2,FALSE
+2012,Hungarian Grand Prix,7/29/2012,dry,2,traditional,2,FALSE
+2012,Belgian Grand Prix,9/2/2012,dry,6,traditional,2,TRUE
+2012,Italian Grand Prix,9/9/2012,dry,5,traditional,2,FALSE
+2012,Singapore Grand Prix,9/23/2012,dry,6,street,4,TRUE
+2012,Japanese Grand Prix,10/7/2012,dry,6,traditional,2,TRUE
+2012,Korean Grand Prix,10/14/2012,dry,4,traditional,1,FALSE
+2012,Indian Grand Prix ,10/28/2012,dry,3,traditional,2,FALSE
+2012,Abu Dhabi Grand Prix,11/4/2012,dry,7,traditional,3,TRUE
+2012,United States Grand Prix,11/18/2012,dry,2,traditional,2,FALSE
+2012,Brazilian Grand Prix,11/25/2012,heavy_rain,6,traditional,2,TRUE
+2013,Australian Grand Prix,3/17/2013,dry,4,street,2,FALSE
+2013,Malaysian Grand Prix,3/24/2013,light_rain,6,traditional,4,FALSE
+2013,Chinese Grand Prix,4/14/2013,dry,4,traditional,2,FALSE
+2013,Bahrain Grand Prix,4/21/2013,dry,1,traditional,3,FALSE
+2013,Spanish Grand Prix,5/12/2013,dry,3,traditional,2,FALSE
+2013,Monaco Grand Prix,5/26/2013,dry,7,street,3,TRUE
+2013,Canadian Grand Prix,6/9/2013,dry,3,traditional,2,FALSE
+2013,British Grand Prix,6/30/2013,dry,4,traditional,1,TRUE
+2013,German Grand Prix,7/7/2013,dry,3,traditional,2,TRUE
+2013,Hungarian Grand Prix,7/28/2013,dry,5,traditional,2,FALSE
+2013,Belgian Grand Prix,8/25/2013,dry,3,traditional,2,FALSE
+2013,Italian Grand Prix,9/8/2013,dry,2,traditional,2,FALSE
+2013,Singapore Grand Prix,9/22/2013,dry,3,street,4,TRUE
+2013,Korean Grand Prix,10/6/2013,dry,5,traditional,1,TRUE
+2013,Japanese Grand Prix,10/13/2013,dry,3,traditional,2,FALSE
+2013,Indian Grand Prix ,10/27/2013,dry,4,traditional,2,FALSE
+2013,Abu Dhabi Grand Prix,11/3/2013,dry,1,traditional,3,FALSE
+2013,United States Grand Prix,11/17/2013,dry,1,traditional,2,TRUE
+2013,Brazilian Grand Prix,11/24/2013,dry,3,traditional,2,FALSE
 2014,Australian Grand Prix,3/16/2014,dry,7,street,2,TRUE
 2014,Malaysian Grand Prix,3/30/2014,dry,6,traditional,4,FALSE
 2014,Bahrain Grand Prix,4/6/2014,dry,6,traditional,3,TRUE
