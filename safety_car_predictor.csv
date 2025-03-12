@@ -1,4 +1,21 @@
 year,name,date,weather,num_dnfs,circuit_type,phy_diff,safety_car
+2009,Australian Grand Prix,03/29/09,dry,7,street,2,TRUE
+2009,Malaysian Grand Prix,04/05/09,heavy_rain,5,traditional,4,TRUE
+2009,Chinese Grand Prix,04/19/09,heavy_rain,4,traditional,2,TRUE
+2009,Bahrain Grand Prix,04/26/09,dry,1,traditional,3,FALSE
+2009,Spanish Grand Prix,05/10/09,dry,6,traditional,2,TRUE
+2009,Monaco Grand Prix,05/24/09,dry,6,street,3,FALSE
+2009,Turkish Grand Prix,06/07/09,dry,2,traditional,3,FALSE
+2009,British Grand Prix,06/21/09,dry,2,traditional,1,FALSE
+2009,German Grand Prix,07/12/09,dry,2,traditional,2,FALSE
+2009,Hungarian Grand Prix,07/26/09,dry,3,traditional,2,FALSE
+2009,European Grand Prix,08/23/09,dry,3,street,2,FALSE
+2009,Belgian Grand Prix,08/30/09,dry,6,traditional,2,TRUE
+2009,Italian Grand Prix,09/13/09,dry,6,traditional,2,TRUE
+2009,Singapore Grand Prix,09/27/09,dry,6,street,4,TRUE
+2009,Japanese Grand Prix,10/04/09,dry,2,traditional,2,TRUE
+2009,Brazilian Grand Prix,10/18/09,dry,6,traditional,2,TRUE
+2009,Abu Dhabi Grand Prix,11/01/09,dry,2,traditional,3,FALSE
 2010,Bahrain Grand Prix,3/14/2010,dry,9,traditional,3,FALSE
 2010,Australian Grand Prix,3/28/2010,light_rain,10,street,2,TRUE
 2010,Malaysian Grand Prix,4/4/2010,dry,7,traditional,4,FALSE
