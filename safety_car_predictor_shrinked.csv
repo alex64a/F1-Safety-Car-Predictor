@@ -1,4 +1,55 @@
 year,name,date,weather,num_dnfs,safety_car
+2002,Australian Grand Prix,3/3/2002,dry,12,TRUE
+2002,Malaysian Grand Prix,3/17/2002,dry,9,FALSE
+2002,Brazilian Grand Prix,3/31/2002,dry,11,FALSE
+2002,Emilia Romagna Grand Prix,4/14/2002,dry,10,FALSE
+2002,Spanish Grand Prix,4/28/2002,dry,10,FALSE
+2002,Austrian Grand Prix,5/12/2002,dry,11,TRUE
+2002,Monaco Grand Prix,5/26/2002,dry,10,FALSE
+2002,Canadian Grand Prix,6/9/2002,dry,8,TRUE
+2002,European Grand Prix,6/23/2002,dry,6,FALSE
+2002,British Grand Prix,7/7/2002,heavy_rain,10,FALSE
+2002,French Grand Prix,7/21/2002,dry,8,FALSE
+2002,German Grand Prix,7/28/2002,dry,12,FALSE
+2002,Hungarian Grand Prix,8/18/2002,dry,4,FALSE
+2002,Belgian Grand Prix,9/1/2002,dry,9,FALSE
+2002,Italian Grand Prix,9/15/2002,dry,7,FALSE
+2002,Indianapolis Grand Prix,9/29/2002,dry,4,FALSE
+2002,Japanese Grand Prix,10/13/2002,dry,9,FALSE
+2003,Australian Grand Prix,3/9/2003,dry,9,TRUE
+2003,Malaysian Grand Prix,3/23/2003,dry,7,FALSE
+2003,Brazilian Grand Prix,4/6/2003,heavy_rain,10,TRUE
+2003,Emilia Romagna Grand Prix,4/20/2003,dry,6,FALSE
+2003,Spanish Grand Prix,5/4/2003,dry,8,FALSE
+2003,Austrian Grand Prix,5/18/2003,light_rain,6,TRUE
+2003,Monaco Grand Prix,6/1/2003,dry,6,FALSE
+2003,Canadian Grand Prix,6/15/2003,dry,11,FALSE
+2003,European Grand Prix,6/29/2003,dry,6,FALSE
+2003,French Grand Prix,7/6/2003,dry,3,FALSE
+2003,British Grand Prix,7/20/2003,dry,3,TRUE
+2003,German Grand Prix,8/3/2003,dry,9,FALSE
+2003,Hungarian Grand Prix,8/24/2003,dry,6,FALSE
+2003,Italian Grand Prix,9/14/2003,dry,8,FALSE
+2003,Indianapolis Grand Prix,9/28/2003,heavy_rain,9,FALSE
+2003,Japanese Grand Prix,10/12/2003,dry,4,FALSE
+2004,Australian Grand Prix,3/7/2004,dry,5,FALSE
+2004,Malaysian Grand Prix,3/21/2004,light_rain,5,FALSE
+2004,Bahrain Grand Prix,4/4/2004,dry,4,FALSE
+2004,Emilia Romagna Grand Prix,4/25/2004,dry,5,FALSE
+2004,Spanish Grand Prix,5/9/2004,dry,7,FALSE
+2004,Monaco Grand Prix,5/23/2004,dry,11,FALSE
+2004,European Grand Prix,5/30/2004,dry,5,FALSE
+2004,Canadian Grand Prix,6/13/2004,dry,6,FALSE
+2004,Indianapolis Grand Prix,6/20/2004,dry,11,TRUE
+2004,French Grand Prix,7/4/2004,dry,3,FALSE
+2004,British Grand Prix,7/11/2004,dry,4,FALSE
+2004,German Grand Prix,7/25/2004,dry,3,FALSE
+2004,Hungarian Grand Prix,8/15/2004,dry,5,FALSE
+2004,Belgian Grand Prix,8/29/2004,dry,10,TRUE
+2004,Italian Grand Prix,9/12/2004,light_rain,5,FALSE
+2004,Chinese Grand Prix,9/26/2004,dry,4,FALSE
+2004,Japanese Grand Prix,10/10/2004,dry,4,FALSE
+2004,Brazilian Grand Prix,10/24/2004,dry,3,FALSE
 2005,Australian Grand Prix,3/6/2005,dry,5,FALSE
 2005,Malaysian Grand Prix,3/20/2005,dry,7,FALSE
 2005,Bahrain Grand Prix,4/3/2005,dry,8,FALSE
@@ -7,7 +58,7 @@ year,name,date,weather,num_dnfs,safety_car
 2005,Monaco Grand Prix,5/22/2005,dry,4,TRUE
 2005,European Grand Prix,5/29/2005,dry,3,FALSE
 2005,Canadian Grand Prix,6/12/2005,dry,8,TRUE
-2005,United States Grand Prix,6/19/2005,dry,0,FALSE
+2005,Indianapolis Grand Prix,6/19/2005,dry,0,FALSE
 2005,French Grand Prix,7/3/2005,dry,5,FALSE
 2005,British Grand Prix,7/10/2005,dry,1,TRUE
 2005,German Grand Prix,7/24/2005,dry,2,FALSE
@@ -27,7 +78,7 @@ year,name,date,weather,num_dnfs,safety_car
 2006,Monaco Grand Prix,5/28/2006,dry,6,TRUE
 2006,British Grand Prix,6/11/2006,dry,4,FALSE
 2006,Canadian Grand Prix,6/25/2006,dry,8,TRUE
-2006,United States Grand Prix,7/2/2006,dry,13,TRUE
+2006,Indianapolis Grand Prix,7/2/2006,dry,13,TRUE
 2006,French Grand Prix,7/16/2006,dry,6,FALSE
 2006,German Grand Prix,7/30/2006,dry,8,FALSE
 2006,Hungarian Grand Prix,8/6/2006,dry,8,FALSE
@@ -42,7 +93,7 @@ year,name,date,weather,num_dnfs,safety_car
 2007,Spanish Grand Prix,5/13/2007,dry,8,FALSE
 2007,Monaco Grand Prix,5/27/2007,dry,4,FALSE
 2007,Canadian Grand Prix,6/10/2007,dry,8,TRUE
-2007,United States Grand Prix,6/17/2007,dry,7,FALSE
+2007,Indianapolis Grand Prix,6/17/2007,dry,7,FALSE
 2007,French Grand Prix,7/1/2007,dry,5,FALSE
 2007,British Grand Prix,7/8/2007,dry,7,FALSE
 2007,European Grand Prix,7/22/2007,heavy_rain,9,TRUE
