@@ -1,4 +1,53 @@
 year,name,date,weather,num_dnfs,safety_car,num_of_sc,num_of_vsc,total
+1997,Australian Grand Prix,3/9/1997,dry,13,FALSE ,0,Nan,0
+1997,Brazilian Grand Prix,3/30/1997,dry,4,FALSE ,0,Nan,0
+1997,Argentina Grand Prix,4/13/1997,dry,13,TRUE,1,Nan,1
+1997,Emilia Romagna Grand Prix,4/27/1997,dry,11,FALSE ,0,Nan,0
+1997,Monaco Grand Prix,5/11/1997,heavy_rain,12,FALSE ,0,Nan,0
+1997,Spanish Grand Prix,5/29/1997,dry,7,FALSE ,0,Nan,0
+1997,Canadian Grand Prix,6/15/1997,dry,12,TRUE,2,Nan,2
+1997,French Grand Prix,6/29/1997,light_rain,10,FALSE ,0,Nan,0
+1997,British Grand Prix,7/13/1997,dry,12,FALSE ,0,Nan,0
+1997,German Grand Prix,7/27/1997,dry,12,FALSE ,0,Nan,0
+1997,Hungarian Grand Prix,8/10/1997,dry,9,FALSE ,0,Nan,0
+1997,Belgian Grand Prix,8/24/1997,heavy_rain,6,TRUE,1,Nan,1
+1997,Italian Grand Prix,9/7/1997,dry,8,FALSE,0,Nan,0
+1997,Austrian Grand Prix,9/21/1997,dry,9,FALSE,0,Nan,0
+1997,European Grand Prix,9/28/1997,dry,12,FALSE,0,Nan,0
+1997,Japanese Grand Prix,10/12/1997,dry,8,FALSE,0,Nan,0
+1997,European Grand Prix,10/26/1997,dry,5,FALSE,0,Nan,0
+1998,Australian Grand Prix,3/8/1998,dry,13,FALSE,0,Nan,0
+1998,Brazilian Grand Prix,3/29/1998,dry,11,FALSE,0,Nan,0
+1998,Argentina Grand Prix,4/12/1998,dry,8,FALSE,0,Nan,0
+1998,Emilia Romagna Grand Prix,4/26/1998,dry,13,FALSE,0,Nan,0
+1998,Spanish Grand Prix,5/10/1998,dry,6,FALSE,0,Nan,0
+1998,Monaco Grand Prix,5/24/1998,dry,10,FALSE,0,Nan,0
+1998,Canadian Grand Prix,6/7/1998,dry,12,TRUE,3,Nan,3
+1998,French Grand Prix,6/28/1998,dry,7,FALSE,0,Nan,0
+1998,British Grand Prix,7/12/1998,heavy_rain,13,TRUE,1,Nan,1
+1998,Austrian Grand Prix,7/26/1998,dry,10,TRUE,1,Nan,1
+1998,German Grand Prix,8/2/1998,dry,5,FALSE,0,Nan,0
+1998,Hungarian Grand Prix,8/16/1998,dry,6,FALSE,0,Nan,0
+1998,Belgian Grand Prix,8/30/1998,heavy_rain,14,TRUE,1,Nan,1
+1998,Italian Grand Prix,9/13/1998,dry,9,FALSE,0,Nan,0
+1998,European Grand Prix,9/27/1998,dry,5,FALSE,0,Nan,0
+1998,Japanese Grand Prix,11/1/1998,dry,10,FALSE,0,Nan,0
+1999,Australian Grand Prix,3/7/1999,dry,13,TRUE,2,Nan,2
+1999,Brazilian Grand Prix,4/11/1999,dry,12,FALSE,0,Nan,0
+1999,Emilia Romagna Grand Prix,5/2/1999,dry,14,FALSE,0,Nan,0
+1999,Monaco Grand Prix,5/16/1999,dry,14,FALSE,0,Nan,0
+1999,Spanish Grand Prix,5/30/1999,dry,9,FALSE,0,Nan,0
+1999,Canadian Grand Prix,6/13/1999,dry,12,TRUE,4,Nan,4
+1999,French Grand Prix,6/27/1999,light_rain,10,TRUE,1,Nan,1
+1999,British Grand Prix,7/11/1999,dry,5,FALSE,0,Nan,0
+1999,Austrian Grand Prix,7/25/1999,dry,9,FALSE,0,Nan,0
+1999,German Grand Prix,8/1/1999,dry,12,FALSE,0,Nan,0
+1999,Hungarian Grand Prix,8/15/1999,dry,6,FALSE,0,Nan,0
+1999,Belgian Grand Prix,8/29/1999,dry,6,FALSE,0,Nan,0
+1999,Italian Grand Prix,9/12/1999,dry,12,FALSE,0,Nan,0
+1999,European Grand Prix,9/26/1999,light_rain,13,TRUE,1,Nan,1
+1999,Malaysian Grand Prix,10/17/1999,dry,10,FALSE,0,Nan,0
+1999,Japanese Grand Prix,10/31/1999,dry,9,FALSE,0,Nan,0
 2000,Australian Grand Prix,3/12/2000,dry,12,TRUE,1,Nan,1
 2000,Brazilian Grand Prix,3/26/2000,dry,9,FALSE,0,Nan,0
 2000,Emilia Romagna Grand Prix,4/9/2000,dry,8,FALSE,0,Nan,0
@@ -478,3 +527,4 @@ year,name,date,weather,num_dnfs,safety_car,num_of_sc,num_of_vsc,total
 2024,Las Vegas Grand Prix,11/23/2024,dry,2,FALSE,,,0
 2024,Qatar Grand Prix,12/1/2024,dry,5,TRUE,,,0
 2024,Abu Dhabi Grand Prix,12/8/2024,dry,4,TRUE,,,0
+2025,Australian Grand Prix,3/16/2025,light_rain,6,TRUE,2,0,2
