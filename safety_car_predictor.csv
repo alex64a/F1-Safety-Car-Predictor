@@ -1,4 +1,20 @@
 year,name,date,weather,num_dnfs,safety_car,num_of_sc,num_of_vsc,total
+1996,Australian Grand Prix,3/10/1996,dry,9,FALSE ,0,Nan,0
+1996,Brazilian Grand Prix,3/31/1996,heavy_rain,11,FALSE ,0,Nan,0
+1996,Argentina Grand Prix,4/7/1996,dry,12,TRUE,1,Nan,1
+1996,European Grand Prix,4/28/1996,dry,5,FALSE ,0,Nan,0
+1996,Emilia Romagna Grand Prix,5/5/1996,dry,12,FALSE ,0,Nan,0
+1996,Monaco Grand Prix,5/19/1996,heavy_rain,19,FALSE ,0,Nan,0
+1996,Spanish Grand Prix,6/2/1996,heavy_rain,13,FALSE ,0,Nan,0
+1996,Canadian Grand Prix,6/16/1996,dry,14,FALSE ,0,Nan,0
+1996,French Grand Prix,6/30/1996,dry,10,FALSE ,0,Nan,0
+1996,British Grand Prix,7/14/1996,dry,9,FALSE ,0,Nan,0
+1996,German Grand Prix,7/28/1996,dry,7,FALSE ,0,Nan,0
+1996,Hungarian Grand Prix,8/11/1996,dry,12,FALSE ,0,Nan,0
+1996,Belgian Grand Prix,8/25/1996,dry,9,TRUE,1,Nan,1
+1996,Italian Grand Prix,9/8/1996,dry,11,FALSE ,0,Nan,0
+1996,Portuguese Grand Prix,9/22/1996,dry,4,FALSE ,0,Nan,0
+1996,Japanese Grand Prix,10/13/1996,dry,6,FALSE ,0,Nan,0
 1997,Australian Grand Prix,3/9/1997,dry,13,FALSE ,0,Nan,0
 1997,Brazilian Grand Prix,3/30/1997,dry,4,FALSE ,0,Nan,0
 1997,Argentina Grand Prix,4/13/1997,dry,13,TRUE,1,Nan,1
