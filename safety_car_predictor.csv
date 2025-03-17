@@ -336,7 +336,7 @@ year,name,date,weather,num_dnfs,safety_car,num_of_sc,num_of_vsc,total
 2013,Spanish Grand Prix,5/12/2013,dry,3,FALSE,0,NaN,0
 2013,Monaco Grand Prix,5/26/2013,dry,7,TRUE,3,NaN,3
 2013,Canadian Grand Prix,6/9/2013,dry,3,FALSE,0,NaN,0
-2013,British Grand Prix,6/30/2013,dry,4,TRUE,2,NaN,0
+2013,British Grand Prix,6/30/2013,dry,4,TRUE,2,NaN,2
 2013,German Grand Prix,7/7/2013,dry,3,TRUE,1,NaN,0
 2013,Hungarian Grand Prix,7/28/2013,dry,5,FALSE,0,NaN,0
 2013,Belgian Grand Prix,8/25/2013,dry,3,FALSE,0,NaN,0
@@ -356,7 +356,7 @@ year,name,date,weather,num_dnfs,safety_car,num_of_sc,num_of_vsc,total
 2014,Monaco Grand Prix,5/25/2014,dry,7,TRUE,2,NaN,2
 2014,Canadian Grand Prix,6/8/2014,dry,9,TRUE,2,NaN,0
 2014,Austrian Grand Prix,6/22/2014,dry,3,FALSE,0,NaN,0
-2014,British Grand Prix,7/6/2014,dry,6,TRUE,1,NaN,0
+2014,British Grand Prix,7/6/2014,dry,6,TRUE,1,NaN,1
 2014,German Grand Prix,7/20/2014,dry,4,TRUE,1,NaN,0
 2014,Hungarian Grand Prix,7/27/2014,light_rain,6,TRUE,2,NaN,0
 2014,Belgian Grand Prix,8/24/2014,dry,5,FALSE,0,NaN,0
@@ -368,212 +368,212 @@ year,name,date,weather,num_dnfs,safety_car,num_of_sc,num_of_vsc,total
 2014,Brazilian Grand Prix,11/9/2014,dry,2,FALSE,0,NaN,0
 2014,Abu Dhabi Grand Prix,11/23/2014,dry,3,FALSE,0,NaN,0
 2015,Monaco Grand Prix,5/24/2015,dry,3,TRUE,1,1,2
-2015,Canadian Grand Prix,6/7/2015,dry,3,FALSE,,,0
-2015,Bahrain Grand Prix,4/19/2015,dry,2,FALSE,,,0
-2015,Spanish Grand Prix,5/10/2015,dry,2,FALSE,,,0
+2015,Canadian Grand Prix,6/7/2015,dry,3,FALSE,0,0,0
+2015,Bahrain Grand Prix,4/19/2015,dry,2,FALSE,0,0,0
+2015,Spanish Grand Prix,5/10/2015,dry,2,FALSE,0,0,0
 2015,Chinese Grand Prix,4/12/2015,dry,4,TRUE,1,0,1
 2015,Australian Grand Prix,3/15/2015,dry,4,TRUE,1,0,1
-2015,Malaysian Grand Prix,3/29/2015,dry,4,TRUE,,,0
-2015,Austrian Grand Prix,6/21/2015,dry,6,TRUE,,,0
-2015,British Grand Prix,7/5/2015,light_rain,6,TRUE,,,0
-2015,Hungarian Grand Prix,7/26/2015,dry,5,TRUE,,,0
-2015,Belgian Grand Prix,8/23/2015,dry,4,TRUE,,,0
-2015,Italian Grand Prix,9/6/2015,dry,4,FALSE,,,0
-2015,Singapore Grand Prix,9/20/2015,dry,5,TRUE,,,0
+2015,Malaysian Grand Prix,3/29/2015,dry,4,TRUE,1,0,1
+2015,Austrian Grand Prix,6/21/2015,dry,6,TRUE,1,0,1
+2015,British Grand Prix,7/5/2015,light_rain,6,TRUE,1,1,2
+2015,Hungarian Grand Prix,7/26/2015,dry,5,TRUE,1,1,2
+2015,Belgian Grand Prix,8/23/2015,dry,4,TRUE,0,1,1
+2015,Italian Grand Prix,9/6/2015,dry,4,FALSE,0,0,0
+2015,Singapore Grand Prix,9/20/2015,dry,5,TRUE,2,1,3
 2015,Japanese Grand Prix,9/27/2015,dry,1,FALSE,0,0,0
-2015,Russian Grand Prix,10/11/2015,dry,7,TRUE,,,0
-2015,United States Grand Prix,10/25/2015,light_rain,8,TRUE,,,0
-2015,Mexican Grand Prix,11/1/2015,dry,4,TRUE,,,0
-2015,Brazilian Grand Prix,11/15/2015,dry,1,FALSE,,,0
-2015,Abu Dhabi Grand Prix,11/29/2015,dry,1,FALSE,,,0
+2015,Russian Grand Prix,10/11/2015,dry,7,TRUE,2,0,2
+2015,United States Grand Prix,10/25/2015,light_rain,8,TRUE,2,2,4
+2015,Mexican Grand Prix,11/1/2015,dry,4,TRUE,1,0,1
+2015,Brazilian Grand Prix,11/15/2015,dry,1,FALSE,0,0,0
+2015,Abu Dhabi Grand Prix,11/29/2015,dry,1,FALSE,0,0,0
 2016,Australian Grand Prix,3/20/2016,dry,5,TRUE,1,0,1
-2016,Bahrain Grand Prix,4/3/2016,dry,3,FALSE,,,0
+2016,Bahrain Grand Prix,4/3/2016,dry,3,FALSE,0,0,0
 2016,Chinese Grand Prix,4/17/2016,dry,0,TRUE,1,0,1
-2016,Russian Grand Prix,5/1/2016,dry,4,TRUE,,,0
-2016,Spanish Grand Prix,5/15/2016,dry,5,TRUE,,,0
+2016,Russian Grand Prix,5/1/2016,dry,4,TRUE,1,0,1
+2016,Spanish Grand Prix,5/15/2016,dry,5,TRUE,1,0,1
 2016,Monaco Grand Prix,5/29/2016,light_rain,7,TRUE,1,4,5
-2016,Canadian Grand Prix,6/12/2016,dry,3,TRUE,,,0
-2016,Azerbaijan Grand Prix,6/19/2016,dry,4,FALSE,,,0
-2016,Austrian Grand Prix,7/3/2016,dry,6,TRUE,,,0
-2016,British Grand Prix,7/10/2016,light_rain,6,TRUE,,,0
-2016,Hungarian Grand Prix,7/24/2016,dry,1,FALSE,,,0
-2016,German Grand Prix,7/31/2016,dry,2,FALSE,,,0
-2016,Belgian Grand Prix,8/28/2016,dry,5,TRUE,,,0
-2016,Italian Grand Prix,9/4/2016,dry,4,FALSE,,,0
-2016,Singapore Grand Prix,9/18/2016,dry,3,TRUE,,,0
-2016,Malaysian Grand Prix,10/2/2016,dry,6,FALSE,,,0
+2016,Canadian Grand Prix,6/12/2016,dry,3,TRUE,0,1,1
+2016,Azerbaijan Grand Prix,6/19/2016,dry,4,FALSE,0,0,0
+2016,Austrian Grand Prix,7/3/2016,dry,6,TRUE,1,0,1
+2016,British Grand Prix,7/10/2016,light_rain,6,TRUE,1,1,2
+2016,Hungarian Grand Prix,7/24/2016,dry,1,FALSE,0,0,0
+2016,German Grand Prix,7/31/2016,dry,2,FALSE,0,0,0
+2016,Belgian Grand Prix,8/28/2016,dry,5,TRUE,1,1,2
+2016,Italian Grand Prix,9/4/2016,dry,4,FALSE,0,0,0
+2016,Singapore Grand Prix,9/18/2016,dry,3,TRUE,1,0,1
+2016,Malaysian Grand Prix,10/2/2016,dry,6,FALSE,0,0,0
 2016,Japanese Grand Prix,10/9/2016,dry,0,FALSE,0,0,0
-2016,United States Grand Prix,10/23/2016,dry,4,TRUE,,,0
-2016,Mexican Grand Prix,10/30/2016,dry,1,TRUE,,,0
-2016,Brazilian Grand Prix,11/13/2016,heavy_rain,5,TRUE,,,0
-2016,Abu Dhabi Grand Prix,11/27/2016,dry,5,FALSE,,,0
+2016,United States Grand Prix,10/23/2016,dry,4,TRUE,0,1,1
+2016,Mexican Grand Prix,10/30/2016,dry,1,TRUE,1,1,2
+2016,Brazilian Grand Prix,11/13/2016,heavy_rain,5,TRUE,4,0,4
+2016,Abu Dhabi Grand Prix,11/27/2016,dry,5,FALSE,0,0,0
 2017,Australian Grand Prix,3/26/2017,dry,7,FALSE,0,0,0
 2017,Chinese Grand Prix,4/9/2017,light_rain,5,TRUE,1,1,2
-2017,Bahrain Grand Prix,4/16/2017,dry,6,TRUE,,,0
-2017,Russian Grand Prix,4/30/2017,dry,3,TRUE,,,0
-2017,Spanish Grand Prix,5/14/2017,dry,3,TRUE,,,0
+2017,Bahrain Grand Prix,4/16/2017,dry,6,TRUE,1,0,1
+2017,Russian Grand Prix,4/30/2017,dry,3,TRUE,1,0,1
+2017,Spanish Grand Prix,5/14/2017,dry,3,TRUE,0,1,1
 2017,Monaco Grand Prix,5/28/2017,dry,7,TRUE,1,0,1
-2017,Canadian Grand Prix,6/11/2017,dry,5,TRUE,,,0
-2017,Azerbaijan Grand Prix,6/25/2017,dry,7,TRUE,,,0
-2017,Austrian Grand Prix,7/9/2017,dry,4,FALSE,,,0
-2017,British Grand Prix,7/16/2017,dry,2,TRUE,,,0
-2017,Hungarian Grand Prix,7/30/2017,dry,4,TRUE,,,0
-2017,Belgian Grand Prix,8/27/2017,dry,4,TRUE,,,0
-2017,Italian Grand Prix,9/3/2017,dry,4,FALSE,,,0
-2017,Singapore Grand Prix,9/17/2017,light_rain,8,TRUE,,,0
-2017,Malaysian Grand Prix,10/1/2017,dry,1,FALSE,,,0
+2017,Canadian Grand Prix,6/11/2017,dry,5,TRUE,1,0,1
+2017,Azerbaijan Grand Prix,6/25/2017,dry,7,TRUE,3,0,3
+2017,Austrian Grand Prix,7/9/2017,dry,4,FALSE,0,0,0
+2017,British Grand Prix,7/16/2017,dry,2,TRUE,1,0,1
+2017,Hungarian Grand Prix,7/30/2017,dry,4,TRUE,1,0,1
+2017,Belgian Grand Prix,8/27/2017,dry,4,TRUE,1,0,1
+2017,Italian Grand Prix,9/3/2017,dry,4,FALSE,0,0,0
+2017,Singapore Grand Prix,9/17/2017,light_rain,8,TRUE,3,0,3
+2017,Malaysian Grand Prix,10/1/2017,dry,1,FALSE,0,0,0
 2017,Japanese Grand Prix,10/8/2017,dry,5,TRUE,1,1,2
-2017,United States Grand Prix,10/22/2017,dry,4,FALSE,,,0
-2017,Mexican Grand Prix,10/29/2017,dry,5,TRUE,,,0
-2017,Brazilian Grand Prix,11/12/2017,dry,4,TRUE,,,0
-2017,Abu Dhabi Grand Prix,11/26/2017,dry,2,FALSE,,,0
+2017,United States Grand Prix,10/22/2017,dry,4,FALSE,0,0,0
+2017,Mexican Grand Prix,10/29/2017,dry,5,TRUE,0,1,1
+2017,Brazilian Grand Prix,11/12/2017,dry,4,TRUE,1,0,1
+2017,Abu Dhabi Grand Prix,11/26/2017,dry,2,FALSE,0,0,0
 2018,Australian Grand Prix,3/25/2018,dry,5,TRUE,1,1,2
-2018,Bahrain Grand Prix,4/8/2018,dry,3,TRUE,,,0
+2018,Bahrain Grand Prix,4/8/2018,dry,3,TRUE,0,1,1
 2018,Chinese Grand Prix,4/15/2018,dry,1,TRUE,1,0,1
-2018,Azerbaijan Grand Prix,4/29/2018,dry,7,TRUE,,,0
-2018,Spanish Grand Prix,5/13/2018,dry,6,TRUE,,,0
+2018,Azerbaijan Grand Prix,4/29/2018,dry,7,TRUE,2,0,0
+2018,Spanish Grand Prix,5/13/2018,dry,6,TRUE,1,1,2
 2018,Monaco Grand Prix,5/27/2018,dry,3,TRUE,0,1,1
-2018,Canadian Grand Prix,6/10/2018,dry,3,TRUE,,,0
-2018,French Grand Prix,6/24/2018,dry,5,TRUE,,,0
-2018,Austrian Grand Prix,7/1/2018,dry,6,TRUE,,,0
-2018,British Grand Prix,7/8/2018,dry,6,TRUE,,,0
-2018,German Grand Prix,7/22/2018,light_rain,5,TRUE,,,0
-2018,Hungarian Grand Prix,7/29/2018,dry,3,TRUE,,,0
-2018,Belgian Grand Prix,8/26/2018,dry,5,TRUE,,,0
-2018,Italian Grand Prix,9/2/2018,dry,3,TRUE,,,0
-2018,Singapore Grand Prix,9/16/2018,dry,1,TRUE,,,0
-2018,Russian Grand Prix,9/30/2018,dry,2,FALSE,,,0
+2018,Canadian Grand Prix,6/10/2018,dry,3,TRUE,1,0,1
+2018,French Grand Prix,6/24/2018,dry,5,TRUE,1,1,2
+2018,Austrian Grand Prix,7/1/2018,dry,6,TRUE,0,1,1
+2018,British Grand Prix,7/8/2018,dry,6,TRUE,2,0,2
+2018,German Grand Prix,7/22/2018,light_rain,5,TRUE,1,0,1
+2018,Hungarian Grand Prix,7/29/2018,dry,3,TRUE,0,2,2
+2018,Belgian Grand Prix,8/26/2018,dry,5,TRUE,1,0,1
+2018,Italian Grand Prix,9/2/2018,dry,3,TRUE,1,0,1
+2018,Singapore Grand Prix,9/16/2018,dry,1,TRUE,1,0,1
+2018,Russian Grand Prix,9/30/2018,dry,2,FALSE,0,0,0
 2018,Japanese Grand Prix,10/7/2018,dry,3,TRUE,1,1,2
-2018,United States Grand Prix,10/21/2018,dry,4,TRUE,,,0
-2018,Mexican Grand Prix,10/28/2018,dry,4,TRUE,,,0
-2018,Brazilian Grand Prix,11/11/2018,dry,2,FALSE,,,0
-2018,Abu Dhabi Grand Prix,11/25/2018,dry,5,TRUE,,,0
+2018,United States Grand Prix,10/21/2018,dry,4,TRUE,0,1,1
+2018,Mexican Grand Prix,10/28/2018,dry,4,TRUE,0,3,3
+2018,Brazilian Grand Prix,11/11/2018,dry,2,FALSE,0,0,0
+2018,Abu Dhabi Grand Prix,11/25/2018,dry,5,TRUE,1,1,1
 2019,Australian Grand Prix,3/17/2019,dry,3,FALSE,0,0,0
-2019,Bahrain Grand Prix,3/31/2019,dry,4,TRUE,,,0
+2019,Bahrain Grand Prix,3/31/2019,dry,4,TRUE,1,0,0
 2019,Chinese Grand Prix,4/14/2019,dry,3,TRUE,0,1,1
-2019,Azerbaijan Grand Prix,4/28/2019,dry,4,TRUE,,,0
-2019,Spanish Grand Prix,5/12/2019,dry,2,TRUE,,,0
+2019,Azerbaijan Grand Prix,4/28/2019,dry,4,TRUE,0,1,1
+2019,Spanish Grand Prix,5/12/2019,dry,2,TRUE,1,0,1
 2019,Monaco Grand Prix,5/26/2019,dry,1,TRUE,1,0,1
-2019,Canadian Grand Prix,6/9/2019,dry,2,FALSE,,,0
-2019,French Grand Prix,6/23/2019,dry,1,TRUE,,,0
-2019,Austrian Grand Prix,6/30/2019,dry,0,FALSE,,,0
-2019,British Grand Prix,7/14/2019,dry,3,TRUE,,,0
-2019,German Grand Prix,7/28/2019,light_rain,7,TRUE,,,0
-2019,Hungarian Grand Prix,8/4/2019,dry,1,FALSE,,,0
-2019,Belgian Grand Prix,9/1/2019,dry,3,TRUE,,,0
-2019,Italian Grand Prix,9/8/2019,dry,3,TRUE,,,0
-2019,Singapore Grand Prix,9/22/2019,dry,3,TRUE,,,0
-2019,Russian Grand Prix,9/29/2019,dry,5,TRUE,,,0
+2019,Canadian Grand Prix,6/9/2019,dry,2,FALSE,0,0,0
+2019,French Grand Prix,6/23/2019,dry,1,TRUE,0,1,1
+2019,Austrian Grand Prix,6/30/2019,dry,0,FALSE,0,0,0
+2019,British Grand Prix,7/14/2019,dry,3,TRUE,1,0,1
+2019,German Grand Prix,7/28/2019,light_rain,7,TRUE,4,2,6
+2019,Hungarian Grand Prix,8/4/2019,dry,1,FALSE,0,0,0
+2019,Belgian Grand Prix,9/1/2019,dry,3,TRUE,1,0,1
+2019,Italian Grand Prix,9/8/2019,dry,3,TRUE,0,2,2
+2019,Singapore Grand Prix,9/22/2019,dry,3,TRUE,3,0,3
+2019,Russian Grand Prix,9/29/2019,dry,5,TRUE,2,1,3
 2019,Japanese Grand Prix,10/13/2019,dry,1,FALSE,0,0,0
-2019,Mexican Grand Prix,10/27/2019,dry,2,TRUE,,,0
-2019,United States Grand Prix,11/3/2019,dry,3,FALSE,,,0
-2019,Brazilian Grand Prix,11/17/2019,dry,4,TRUE,,,0
-2019,Abu Dhabi Grand Prix,12/1/2019,dry,1,FALSE,,,0
-2020,Austrian Grand Prix,7/5/2020,dry,9,TRUE,,,0
-2020,Austrian Grand Prix,7/12/2020,dry,3,TRUE,,,0
-2020,Hungarian Grand Prix,7/19/2020,light_rain,1,FALSE,,,0
-2020,British Grand Prix,8/2/2020,dry,3,TRUE,,,0
-2020,British Grand Prix,8/9/2020,dry,1,FALSE,,,0
-2020,Spanish Grand Prix,8/16/2020,dry,1,FALSE,,,0
-2020,Belgian Grand Prix,8/30/2020,dry,3,TRUE,,,0
-2020,Italian Grand Prix,9/6/2020,dry,4,TRUE,,,0
-2020,Tuscan Grand Prix,9/13/2020,dry,8,TRUE,,,0
-2020,Russian Grand Prix,9/27/2020,dry,2,TRUE,,,0
-2020,Eifel Grand Prix,10/11/2020,dry,5,TRUE,,,0
-2020,Portuguese Grand Prix,10/25/2020,dry,1,FALSE,,,0
+2019,Mexican Grand Prix,10/27/2019,dry,2,TRUE,0,1,1
+2019,United States Grand Prix,11/3/2019,dry,3,FALSE,0,0,0
+2019,Brazilian Grand Prix,11/17/2019,dry,4,TRUE,2,0,2
+2019,Abu Dhabi Grand Prix,12/1/2019,dry,1,FALSE,0,0,0
+2020,Austrian Grand Prix,7/5/2020,dry,9,TRUE,2,0,2
+2020,Austrian Grand Prix,7/12/2020,dry,3,TRUE,1,0,1
+2020,Hungarian Grand Prix,7/19/2020,light_rain,1,FALSE,0,0,0
+2020,British Grand Prix,8/2/2020,dry,3,TRUE,1,0,1
+2020,British Grand Prix,8/9/2020,dry,1,FALSE,0,0,0
+2020,Spanish Grand Prix,8/16/2020,dry,1,FALSE,0,0,0
+2020,Belgian Grand Prix,8/30/2020,dry,3,TRUE,1,0,0
+2020,Italian Grand Prix,9/6/2020,dry,4,TRUE,2,0,2
+2020,Tuscan Grand Prix,9/13/2020,dry,8,TRUE,1,0,1
+2020,Russian Grand Prix,9/27/2020,dry,2,TRUE,1,0,1
+2020,Eifel Grand Prix,10/11/2020,dry,5,TRUE,1,1,2
+2020,Portuguese Grand Prix,10/25/2020,dry,1,FALSE,0,0,0
 2020,Emilia Romagna Grand Prix,11/1/2020,dry,5,TRUE,1,1,2
-2020,Turkish Grand Prix,11/15/2020,heavy_rain,4,TRUE,,,0
-2020,Bahrain Grand Prix,11/29/2020,dry,3,TRUE,,,0
-2020,Bahrain Grand Prix,12/6/2020,dry,3,TRUE,,,0
-2020,Abu Dhabi Grand Prix,12/13/2020,dry,1,TRUE,,,0
+2020,Turkish Grand Prix,11/15/2020,heavy_rain,4,TRUE,0,1,1
+2020,Bahrain Grand Prix,11/29/2020,dry,3,TRUE,2,0,2
+2020,Bahrain Grand Prix,12/6/2020,dry,3,TRUE,2,2,4
+2020,Abu Dhabi Grand Prix,12/13/2020,dry,1,TRUE,1,1,2
 2021,Emilia Romagna Grand Prix,4/18/2021,heavy_rain,3,TRUE,2,0,2
-2021,Bahrain Grand Prix,3/28/2021,dry,4,TRUE,,,0
-2021,Qatar Grand Prix,11/21/2021,dry,2,TRUE,,,0
-2021,Portuguese Grand Prix,5/2/2021,dry,1,TRUE,,,0
-2021,Spanish Grand Prix,5/9/2021,dry,1,TRUE,,,0
+2021,Bahrain Grand Prix,3/28/2021,dry,4,TRUE,1,0,1
+2021,Qatar Grand Prix,11/21/2021,dry,2,TRUE,0,1,1
+2021,Portuguese Grand Prix,5/2/2021,dry,1,TRUE,1,0,1
+2021,Spanish Grand Prix,5/9/2021,dry,1,TRUE,1,0,1
 2021,Monaco Grand Prix,5/23/2021,dry,2,FALSE,0,0,0
-2021,Azerbaijan Grand Prix,6/6/2021,dry,4,TRUE,,,0
-2021,Austrian Grand Prix,6/27/2021,light_rain,2,FALSE,,,0
-2021,French Grand Prix,6/20/2021,dry,0,TRUE,,,0
-2021,Austrian Grand Prix,7/4/2021,dry,1,TRUE,,,0
-2021,British Grand Prix,7/18/2021,dry,2,TRUE,,,0
-2021,Hungarian Grand Prix,8/1/2021,light_rain,7,TRUE,,,0
-2021,Belgian Grand Prix,8/29/2021,heavy_rain,5,TRUE,,,0
-2021,Dutch Grand Prix,9/5/2021,dry,2,FALSE,,,0
-2021,Italian Grand Prix,9/12/2021,dry,5,TRUE,,,0
-2021,Russian Grand Prix,9/26/2021,light_rain,2,FALSE,,,0
-2021,Turkish Grand Prix,10/10/2021,light_rain,0,FALSE,,,0
-2021,United States Grand Prix,10/24/2021,dry,3,TRUE,,,0
-2021,Mexico City Grand Prix,11/7/2021,dry,2,TRUE,,,0
-2021,Sao Paulo Grand Prix,11/14/2021,dry,2,TRUE,,,0
-2021,Saudi Arabian Grand Prix,12/5/2021,dry,5,TRUE,,,0
-2021,Abu Dhabi Grand Prix,12/12/2021,dry,4,TRUE,,,0
-2022,Bahrain Grand Prix,3/20/2022,dry,2,TRUE,,,0
-2022,Saudi Arabian Grand Prix,3/27/2022,dry,7,TRUE,,,0
+2021,Azerbaijan Grand Prix,6/6/2021,dry,4,TRUE,2,0,2
+2021,Austrian Grand Prix,6/27/2021,light_rain,2,FALSE,0,0,0
+2021,French Grand Prix,6/20/2021,dry,0,FALSE,0,0,0
+2021,Austrian Grand Prix,7/4/2021,dry,1,TRUE,1,0,1
+2021,British Grand Prix,7/18/2021,dry,2,TRUE,1,0,1
+2021,Hungarian Grand Prix,8/1/2021,light_rain,7,TRUE,1,0,1
+2021,Belgian Grand Prix,8/29/2021,heavy_rain,5,TRUE,1,0,1
+2021,Dutch Grand Prix,9/5/2021,dry,2,FALSE,0,0,0
+2021,Italian Grand Prix,9/12/2021,dry,5,TRUE,1,2,3
+2021,Russian Grand Prix,9/26/2021,light_rain,2,FALSE,0,0,0
+2021,Turkish Grand Prix,10/10/2021,light_rain,0,FALSE,0,0,0
+2021,United States Grand Prix,10/24/2021,dry,3,TRUE,0,1,1
+2021,Mexican Grand Prix,11/7/2021,dry,2,TRUE,1,0,1
+2021,Brazilian Grand Prix,11/14/2021,dry,2,TRUE,1,2,3
+2021,Saudi Arabian Grand Prix,12/5/2021,dry,5,TRUE,2,3,5
+2021,Abu Dhabi Grand Prix,12/12/2021,dry,4,TRUE,1,1,2
+2022,Bahrain Grand Prix,3/20/2022,dry,2,TRUE,1,1,2
+2022,Saudi Arabian Grand Prix,3/27/2022,dry,7,TRUE,1,1,2
 2022,Australian Grand Prix,4/10/2022,dry,3,TRUE,2,2,4
 2022,Emilia Romagna Grand Prix,4/24/2022,light_rain,2,TRUE,1,0,1
 2022,Miami Grand Prix,5/8/2022,dry,4,TRUE,1,1,2
-2022,Spanish Grand Prix,5/22/2022,dry,2,FALSE,,,0
+2022,Spanish Grand Prix,5/22/2022,dry,2,FALSE,0,0,0
 2022,Monaco Grand Prix,5/29/2022,light_rain,3,TRUE,2,1,3
-2022,Azerbaijan Grand Prix,6/12/2022,dry,5,TRUE,,,0
-2022,Canadian Grand Prix,6/19/2022,dry,3,TRUE,,,0
-2022,British Grand Prix,7/3/2022,dry,6,TRUE,,,0
-2022,Austrian Grand Prix,7/10/2022,dry,3,TRUE,,,0
-2022,French Grand Prix,7/24/2022,dry,5,TRUE,,,0
-2022,Hungarian Grand Prix,7/31/2022,dry,1,TRUE,,,0
-2022,Belgian Grand Prix,8/28/2022,dry,2,TRUE,,,0
-2022,Dutch Grand Prix,9/4/2022,dry,2,TRUE,,,0
-2022,Italian Grand Prix,9/11/2022,dry,4,TRUE,,,0
-2022,Singapore Grand Prix,10/2/2022,light_rain,6,TRUE,,,0
+2022,Azerbaijan Grand Prix,6/12/2022,dry,5,TRUE,0,2,2
+2022,Canadian Grand Prix,6/19/2022,dry,3,TRUE,1,2,3
+2022,British Grand Prix,7/3/2022,dry,6,TRUE,2,0,2
+2022,Austrian Grand Prix,7/10/2022,dry,3,TRUE,0,1,1
+2022,French Grand Prix,7/24/2022,dry,5,TRUE,1,1,2
+2022,Hungarian Grand Prix,7/31/2022,dry,1,TRUE,2,0,2
+2022,Belgian Grand Prix,8/28/2022,dry,2,TRUE,1,0,1
+2022,Dutch Grand Prix,9/4/2022,dry,2,TRUE,1,1,2
+2022,Italian Grand Prix,9/11/2022,dry,4,TRUE,1,1,2
+2022,Singapore Grand Prix,10/2/2022,light_rain,6,TRUE,2,2,4
 2022,Japanese Grand Prix,10/9/2022,heavy_rain,2,TRUE,1,0,1
-2022,United States Grand Prix,10/23/2022,dry,3,TRUE,,,0
-2022,Mexico City Grand Prix,10/30/2022,dry,2,TRUE,,,0
-2022,Sao Paulo Grand Prix,11/13/2022,dry,3,TRUE,,,0
-2022,Abu Dhabi Grand Prix,11/20/2022,dry,3,FALSE,,,0
-2023,Bahrain Grand Prix,3/5/2023,dry,3,TRUE,,,0
-2023,Saudi Arabian Grand Prix,3/19/2023,dry,2,TRUE,,,0
+2022,United States Grand Prix,10/23/2022,dry,3,TRUE,2,0,2
+2022,Mexican Grand Prix,10/30/2022,dry,2,TRUE,0,1,1
+2022,Brazilian Grand Prix,11/13/2022,dry,3,TRUE,2,1,3
+2022,Abu Dhabi Grand Prix,11/20/2022,dry,3,FALSE,0,0,0
+2023,Bahrain Grand Prix,3/5/2023,dry,3,TRUE,0,1,1
+2023,Saudi Arabian Grand Prix,3/19/2023,dry,2,TRUE,1,0,1
 2023,Australian Grand Prix,4/2/2023,dry,8,TRUE,2,0,2
-2023,Azerbaijan Grand Prix,4/30/2023,dry,2,TRUE,,,0
+2023,Azerbaijan Grand Prix,4/30/2023,dry,2,TRUE,2,0,2
 2023,Miami Grand Prix,5/7/2023,dry,0,FALSE,0,0,0
 2023,Monaco Grand Prix,5/28/2023,heavy_rain,2,FALSE,0,0,0
-2023,Spanish Grand Prix,6/4/2023,dry,0,FALSE,,,0
-2023,Canadian Grand Prix,6/18/2023,dry,2,TRUE,,,0
-2023,Austrian Grand Prix,7/2/2023,dry,1,TRUE,,,0
-2023,British Grand Prix,7/9/2023,dry,3,TRUE,,,0
-2023,Hungarian Grand Prix,7/23/2023,dry,3,FALSE,,,0
-2023,Belgian Grand Prix,7/30/2023,dry,2,TRUE,,,0
-2023,Dutch Grand Prix,8/27/2023,light_rain,3,TRUE,,,0
-2023,Italian Grand Prix,9/3/2023,dry,2,FALSE,,,0
-2023,Singapore Grand Prix,9/17/2023,dry,4,TRUE,,,0
+2023,Spanish Grand Prix,6/4/2023,dry,0,FALSE,0,0,0
+2023,Canadian Grand Prix,6/18/2023,dry,2,TRUE,1,1,2
+2023,Austrian Grand Prix,7/2/2023,dry,1,TRUE,1,1,2
+2023,British Grand Prix,7/9/2023,dry,3,TRUE,1,1,2
+2023,Hungarian Grand Prix,7/23/2023,dry,3,FALSE,0,0,0
+2023,Belgian Grand Prix,7/30/2023,dry,2,TRUE,1,0,1
+2023,Dutch Grand Prix,8/27/2023,light_rain,3,TRUE,2,0,2
+2023,Italian Grand Prix,9/3/2023,dry,2,FALSE,0,0,0
+2023,Singapore Grand Prix,9/17/2023,dry,4,TRUE,1,1,2
 2023,Japanese Grand Prix,9/24/2023,dry,5,TRUE,1,1,2
-2023,Qatar Grand Prix,10/8/2023,dry,2,TRUE,,,0
-2023,United States Grand Prix,10/22/2023,dry,3,FALSE,,,0
-2023,Mexico City Grand Prix,10/29/2023,dry,4,TRUE,,,0
-2023,Sao Paulo Grand Prix,11/5/2023,dry,6,TRUE,,,0
-2023,Las Vegas Grand Prix,11/19/2023,dry,3,TRUE,,,0
-2023,Abu Dhabi Grand Prix,11/26/2023,dry,0,FALSE,,,0
-2024,Bahrain Grand Prix,3/2/2024,dry,0,FALSE,,,0
-2024,Saudi Arabian Grand Prix,3/9/2024,dry,2,TRUE,,,0
+2023,Qatar Grand Prix,10/8/2023,dry,2,TRUE,1,0,1
+2023,United States Grand Prix,10/22/2023,dry,3,FALSE,0,0,0
+2023,Mexican Grand Prix,10/29/2023,dry,4,TRUE,1,1,2
+2023,Brazilian Grand Prix,11/5/2023,dry,6,TRUE,1,0,1
+2023,Las Vegas Grand Prix,11/19/2023,dry,3,TRUE,2,0,2
+2023,Abu Dhabi Grand Prix,11/26/2023,dry,0,FALSE,0,0,0
+2024,Bahrain Grand Prix,3/2/2024,dry,0,FALSE,0,0,0
+2024,Saudi Arabian Grand Prix,3/9/2024,dry,2,TRUE,1,0,1
 2024,Australian Grand Prix,3/24/2024,dry,3,TRUE,0,2,2
 2024,Japanese Grand Prix,4/7/2024,dry,3,TRUE,1,0,1
 2024,Chinese Grand Prix,4/21/2024,dry,3,TRUE,2,1,3
 2024,Miami Grand Prix,5/5/2024,dry,1,TRUE,1,1,2
 2024,Emilia Romagna Grand Prix,5/19/2024,dry,1,FALSE,0,0,0
 2024,Monaco Grand Prix,5/26/2024,dry,4,TRUE,1,0,1
-2024,Canadian Grand Prix,6/9/2024,light_rain,5,TRUE,,,0
-2024,Spanish Grand Prix,6/23/2024,dry,0,FALSE,,,0
-2024,Austrian Grand Prix,6/30/2024,dry,1,TRUE,,,0
-2024,British Grand Prix,7/7/2024,light_rain,2,FALSE,,,0
-2024,Hungarian Grand Prix,7/21/2024,dry,1,FALSE,,,0
-2024,Belgian Grand Prix,7/28/2024,dry,2,FALSE,,,0
-2024,Dutch Grand Prix,8/25/2024,dry,0,FALSE,,,0
-2024,Italian Grand Prix,9/1/2024,dry,1,FALSE,,,0
-2024,Azerbaijan Grand Prix,9/15/2024,dry,4,TRUE,,,0
-2024,Singapore Grand Prix,9/22/2024,dry,2,FALSE,,,0
-2024,United States Grand Prix,10/20/2024,dry,1,TRUE,,,0
-2024,Mexico City Grand Prix,10/27/2024,dry,3,TRUE,,,0
-2024,Sao Paulo Grand Prix,11/3/2024,heavy_rain,5,TRUE,,,0
-2024,Las Vegas Grand Prix,11/23/2024,dry,2,FALSE,,,0
-2024,Qatar Grand Prix,12/1/2024,dry,5,TRUE,,,0
-2024,Abu Dhabi Grand Prix,12/8/2024,dry,4,TRUE,,,0
+2024,Canadian Grand Prix,6/9/2024,light_rain,5,TRUE,2,0,2
+2024,Spanish Grand Prix,6/23/2024,dry,0,FALSE,0,0,0
+2024,Austrian Grand Prix,6/30/2024,dry,1,TRUE,0,1,1
+2024,British Grand Prix,7/7/2024,light_rain,2,FALSE,0,0,0
+2024,Hungarian Grand Prix,7/21/2024,dry,1,FALSE,0,0,0
+2024,Belgian Grand Prix,7/28/2024,dry,2,FALSE,0,0,0
+2024,Dutch Grand Prix,8/25/2024,dry,0,FALSE,0,0,0
+2024,Italian Grand Prix,9/1/2024,dry,1,FALSE,0,0,0
+2024,Azerbaijan Grand Prix,9/15/2024,dry,4,TRUE,0,1,1
+2024,Singapore Grand Prix,9/22/2024,dry,2,FALSE,0,0,0
+2024,United States Grand Prix,10/20/2024,dry,1,TRUE,1,0,1
+2024,Mexican Grand Prix,10/27/2024,dry,3,TRUE,1,0,1
+2024,Brazilian Grand Prix,11/3/2024,heavy_rain,5,TRUE,2,1,3
+2024,Las Vegas Grand Prix,11/23/2024,dry,2,FALSE,0,0,0
+2024,Qatar Grand Prix,12/1/2024,dry,5,TRUE,3,1,4
+2024,Abu Dhabi Grand Prix,12/8/2024,dry,4,TRUE,0,1,1
 2025,Australian Grand Prix,3/16/2025,light_rain,6,TRUE,2,0,2
